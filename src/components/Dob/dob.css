@@ -1,0 +1,17 @@
+.jumbotronDob{
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.jumbotronDob h2{
+    margin-bottom: 3rem;
+
+}
+
+.jumbotronDob Button{
+    font-size: 1rem;
+    width: 10rem;
+    margin-top: 2rem;
+
+}

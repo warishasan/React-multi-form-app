@@ -1,0 +1,14 @@
+.homeContainer{
+    margin-top: 5rem;
+}
+
+.homeContainer h1{
+
+    margin-bottom: 3rem;
+    font-size: 2rem;
+}
+
+.homeContainer Button{
+
+    font-size: 1rem;
+}
